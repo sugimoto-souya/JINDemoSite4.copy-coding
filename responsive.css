@@ -1,0 +1,11 @@
+/* スマホ */
+@media screen and (max-width:735px){
+  .top-header span{
+    color: red;
+  }
+}
+
+/* タブレット */
+@media screen and (max-width:1025px) {
+
+}
